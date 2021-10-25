@@ -1,4 +1,4 @@
-** Instructions **
+## Instructions
 
 Clone and Fork this Repository
 
@@ -20,14 +20,14 @@ i.e.,
 5 + 10 = 15
 
 Your calculator should do the following operations:
-Add 
-Subtract
-Multiply
-Divide
-Remainder
-Exponents
+* Add 
+* Subtract
+* Multiply
+* Divide
+* Remainder
+* Exponents
 
 Helpful resources
-https://www.w3schools.com/js/js_variables.asp
-https://www.sitepoint.com/understanding-module-exports-exports-node-js/
+* https://www.w3schools.com/js/js_variables.asp
+* https://www.sitepoint.com/understanding-module-exports-exports-node-js/
 
